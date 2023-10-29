@@ -1,0 +1,10 @@
+
+
+
+body{
+    background-image: url("777.jpg"); 
+    
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-position: center bottom;
+}
